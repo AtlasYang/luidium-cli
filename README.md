@@ -1,5 +1,7 @@
 # Luidium CLI
 
+[Luidium](https://github.com/AtlasYang/luidium)
+
 Luidium CLI is a command-line interface tool that allows you to interact with [Luidium Cloud Service](https://app.luidium.com). It provides a convenient way to authenticate, initialize projects, upload files, and deploy blocks.
 
 ## Installation
